@@ -1,7 +1,7 @@
 @import './base.css';
 
 @font-face {
-  font-family: 'Lumanosimo-Regular';
+  font-family: 'Noto_Sans_Lao';
   src: url('./fonts/Noto_Sans_Lao/static/NotoSansLao-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
@@ -9,15 +9,15 @@
 }
 
 @font-face {
-  font-family: 'Roboto';
-  src: url('./fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+  font-family: 'Lumanosimo';
+  src: url('./fonts/Lumanosimo/Lumanosimo-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 :lang(la) {
-  font-family: 'Noto Sans Lao Condensed Black', sans-serif;
+  font-family: 'Noto_Sans_Lao', sans-serif;
 }
 
 body {
